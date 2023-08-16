@@ -1,0 +1,2 @@
+# CTkThemesPack
+CustomTKinter themes palettes
