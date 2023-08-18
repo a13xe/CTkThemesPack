@@ -12,6 +12,7 @@ Red
 </div>
 
 ```python
+customtkinter.set_appearance_mode("Dark")  # Modes: "System" (standard), "Dark", "Light"
 customtkinter.set_default_color_theme("themes/red.json")
 ```
 
@@ -24,6 +25,7 @@ Marsh
 </div>
 
 ```python
+customtkinter.set_appearance_mode("Dark")  # Modes: "System" (standard), "Dark", "Light"
 customtkinter.set_default_color_theme("themes/marsh.json")
 ```
 
@@ -36,6 +38,7 @@ Pink
 </div>
 
 ```python
+customtkinter.set_appearance_mode("Dark")  # Modes: "System" (standard), "Dark", "Light"
 customtkinter.set_default_color_theme("themes/pink.json")
 ```
 
@@ -48,6 +51,7 @@ Carrot
 </div>
 
 ```python
+customtkinter.set_appearance_mode("Dark")  # Modes: "System" (standard), "Dark", "Light"
 customtkinter.set_default_color_theme("themes/carrot.json")
 ```
 
@@ -60,6 +64,7 @@ Rose
 </div>
 
 ```python
+customtkinter.set_appearance_mode("Dark")  # Modes: "System" (standard), "Dark", "Light"
 customtkinter.set_default_color_theme("themes/rose.json")
 ```
 
@@ -72,6 +77,7 @@ Sky
 </div>
 
 ```python
+customtkinter.set_appearance_mode("Dark")  # Modes: "System" (standard), "Dark", "Light"
 customtkinter.set_default_color_theme("themes/sky.json")
 ```
 
@@ -79,11 +85,12 @@ Yellow
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
-<img width=49% src="https://github.com/AlexeyLepov/CTkThemesPack/assets/77492646/d7f1030e-9fbe-4389-9fbf-fa61418192f1"/>
-<img width=49% src="https://github.com/AlexeyLepov/CTkThemesPack/assets/77492646/b1f54c97-bea8-4330-aa4c-e3c54e9ddd7d"/> 
+<img width=49% src="https://github.com/AlexeyLepov/CTkThemesPack/assets/77492646/44c52936-9d39-4fae-a263-f4f537616b7e"/>
+<img width=49% src="https://github.com/AlexeyLepov/CTkThemesPack/assets/77492646/e67b4ef7-4ddb-4803-ac3f-256c0553838a"/> 
 </div>
 
 ```python
+customtkinter.set_appearance_mode("Dark")  # Modes: "System" (standard), "Dark", "Light"
 customtkinter.set_default_color_theme("themes/yellow.json")
 ```
 
