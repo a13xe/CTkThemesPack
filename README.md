@@ -1,7 +1,48 @@
 CTkThemesPack
 =======================================================================================================================================
 
+
 This repository contains JSON files that define custom color palettes for the [CustomTkinter library](https://github.com/TomSchimansky/CustomTkinter), allowing you to quickly and easily customize the look of your customtkinter-based applications.
+
+
+Coffee
+---------------------------------------------------------------------------------------------------------------------------------------
+
+<div align="center">
+<img width=49% src="https://github.com/a13xe/CTkThemesPack/assets/77492646/0a415071-58bb-40b6-9a77-d05131b2d403"/> 
+<img width=49% src="https://github.com/a13xe/CTkThemesPack/assets/77492646/fd1f0e46-cf37-4669-a5fb-649d039beba5"/> 
+</div>
+
+```python
+customtkinter.set_appearance_mode("System")  # Modes: "System" (standard), "Dark", "Light"
+customtkinter.set_default_color_theme("themes/coffee.json")
+```
+
+Violet
+---------------------------------------------------------------------------------------------------------------------------------------
+
+<div align="center">
+<img width=49% src="https://github.com/a13xe/CTkThemesPack/assets/77492646/744a47bf-92c4-4d14-b9ff-33baacb8cc4f"/> 
+<img width=49% src="https://github.com/a13xe/CTkThemesPack/assets/77492646/b9f7f72d-68a9-4da1-b7db-22e304e49bbb"/> 
+</div>
+
+```python
+customtkinter.set_appearance_mode("System")  # Modes: "System" (standard), "Dark", "Light"
+customtkinter.set_default_color_theme("themes/coffee.json")
+```
+
+Metal
+---------------------------------------------------------------------------------------------------------------------------------------
+
+<div align="center">
+<img width=49% src="https://github.com/a13xe/CTkThemesPack/assets/77492646/380e4cdf-a613-4c4d-b2a6-db6c0b8c7924"/> 
+<img width=49% src="https://github.com/a13xe/CTkThemesPack/assets/77492646/0dc7b85c-c8c9-469d-97e2-24449b2dd076"/> 
+</div>
+
+```python
+customtkinter.set_appearance_mode("System")  # Modes: "System" (standard), "Dark", "Light"
+customtkinter.set_default_color_theme("themes/coffee.json")
+```
 
 Red
 ---------------------------------------------------------------------------------------------------------------------------------------
@@ -12,8 +53,21 @@ Red
 </div>
 
 ```python
-customtkinter.set_appearance_mode("Dark")  # Modes: "System" (standard), "Dark", "Light"
+customtkinter.set_appearance_mode("System")  # Modes: "System" (standard), "Dark", "Light"
 customtkinter.set_default_color_theme("themes/red.json")
+```
+
+Yellow
+---------------------------------------------------------------------------------------------------------------------------------------
+
+<div align="center">
+<img width=49% src="https://github.com/AlexeyLepov/CTkThemesPack/assets/77492646/44c52936-9d39-4fae-a263-f4f537616b7e"/>
+<img width=49% src="https://github.com/AlexeyLepov/CTkThemesPack/assets/77492646/e67b4ef7-4ddb-4803-ac3f-256c0553838a"/> 
+</div>
+
+```python
+customtkinter.set_appearance_mode("System")  # Modes: "System" (standard), "Dark", "Light"
+customtkinter.set_default_color_theme("themes/yellow.json")
 ```
 
 Marsh
@@ -25,7 +79,7 @@ Marsh
 </div>
 
 ```python
-customtkinter.set_appearance_mode("Dark")  # Modes: "System" (standard), "Dark", "Light"
+customtkinter.set_appearance_mode("System")  # Modes: "System" (standard), "Dark", "Light"
 customtkinter.set_default_color_theme("themes/marsh.json")
 ```
 
@@ -38,7 +92,7 @@ Pink
 </div>
 
 ```python
-customtkinter.set_appearance_mode("Dark")  # Modes: "System" (standard), "Dark", "Light"
+customtkinter.set_appearance_mode("System")  # Modes: "System" (standard), "Dark", "Light"
 customtkinter.set_default_color_theme("themes/pink.json")
 ```
 
@@ -51,21 +105,8 @@ Carrot
 </div>
 
 ```python
-customtkinter.set_appearance_mode("Dark")  # Modes: "System" (standard), "Dark", "Light"
+customtkinter.set_appearance_mode("System")  # Modes: "System" (standard), "Dark", "Light"
 customtkinter.set_default_color_theme("themes/carrot.json")
-```
-
-Rose
----------------------------------------------------------------------------------------------------------------------------------------
-
-<div align="center">
-<img width=49% src="https://github.com/AlexeyLepov/CTkThemesPack/assets/77492646/15173b05-1d1d-4500-ad8d-27c0990d8582"/>
-<img width=49% src="https://github.com/AlexeyLepov/CTkThemesPack/assets/77492646/43418176-db2d-4d4b-bcb5-9f49e8d267a3"/> 
-</div>
-
-```python
-customtkinter.set_appearance_mode("Dark")  # Modes: "System" (standard), "Dark", "Light"
-customtkinter.set_default_color_theme("themes/rose.json")
 ```
 
 Sky
@@ -77,20 +118,6 @@ Sky
 </div>
 
 ```python
-customtkinter.set_appearance_mode("Dark")  # Modes: "System" (standard), "Dark", "Light"
+customtkinter.set_appearance_mode("System")  # Modes: "System" (standard), "Dark", "Light"
 customtkinter.set_default_color_theme("themes/sky.json")
 ```
-
-Yellow
----------------------------------------------------------------------------------------------------------------------------------------
-
-<div align="center">
-<img width=49% src="https://github.com/AlexeyLepov/CTkThemesPack/assets/77492646/44c52936-9d39-4fae-a263-f4f537616b7e"/>
-<img width=49% src="https://github.com/AlexeyLepov/CTkThemesPack/assets/77492646/e67b4ef7-4ddb-4803-ac3f-256c0553838a"/> 
-</div>
-
-```python
-customtkinter.set_appearance_mode("Dark")  # Modes: "System" (standard), "Dark", "Light"
-customtkinter.set_default_color_theme("themes/yellow.json")
-```
-
