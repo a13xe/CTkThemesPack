@@ -1,8 +1,16 @@
 CTkThemesPack
 =======================================================================================================================================
 
-
 This repository contains JSON files that define custom color palettes for the [CustomTkinter library](https://github.com/TomSchimansky/CustomTkinter), allowing you to quickly and easily customize the look of your customtkinter-based applications.
+
+_**How to use?**_
+
+- Create a [themes](https://github.com/a13xe/CTkThemesPack/tree/main/themes) folder in your project, 
+- Drop your preferred .json files in it,
+- Then use the .set_default_color_theme() method.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
 
 
 ☕️ Coffee — [download](https://github.com/a13xe/CTkThemesPack/releases/download/v1.0.1/coffee.json)
@@ -129,3 +137,8 @@ customtkinter.set_default_color_theme("themes/carrot.json")
 <img width=49% src="https://github.com/a13xe/CTkThemesPack/blob/main/images/sky-dark.png?raw=true"/>
 <img width=49% src="https://github.com/a13xe/CTkThemesPack/blob/main/images/sky-light.png?raw=true"/> 
 </div>
+
+```python
+customtkinter.set_appearance_mode("System")  # Modes: "System" (standard), "Dark", "Light"
+customtkinter.set_default_color_theme("themes/sky.json")
+```
